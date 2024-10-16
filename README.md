@@ -26,7 +26,7 @@ Step-by-Step Usage:
 
     bash
 
-git clone https://github.com/yourusername/netis-exploit-poc.git
+git clone https://github.com/p33d/Netis-MW5360-Code-Injection
 cd netis-exploit-poc
 
 Set the Target:
